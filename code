@@ -1,0 +1,53 @@
+[{
+		"name": "BLING2",
+		"description": "A Multicenter Randomized Trial of Continuous versus Intermittent β-Lactam Infusion in Severe Sepsis",
+		"img": "https://www.thebottomline.org.uk/wp-content/uploads/2015/07/BLING2.png"
+	},
+	{
+		"name": "Clinical Question",
+		"description": "In adult ICU patients on beta-lactam antibiotics, does continuous infusion compared to intermittent bolus increase survival?",
+		"img": "https://www.thebottomline.org.uk/wp-content/uploads/2015/07/BLING2.png"
+	}, {
+		"name": "Design",
+		"description": "Randomised, controlled trial
+                     Double-blind with double-dummy preparations
+                     Unblinded staff prepared drugs and consecutively labelled sealed opaque envelopes
+                     Study participants, clinicians and data investigators remained blinded
+                     Pilot trial conducted to guide power calculation
+                      Sample size of 420 required to achieve 90% power to detect a 3 day difference in the primary outcome
+                      Intention-to-treat (ITT) analysis for primary end points, in addition to:
+                      Modified intention-to-treat (mITT) conducted in eligible patients who received a study drug
+                      A priori per protocol analysis in those who received 3 or more days of a study drug",
+		"img": "https://www.thebottomline.org.uk/wp-content/uploads/2015/07/BLING2.png"
+	}, {
+		"name": "Setting",
+		"description": "25 Intensive Care Units (17 in Australia, 7 in New Zealand and 1 in Hong Kong)
+                    July 2012 to April 2014",
+		"img": "https://www.thebottomline.org.uk/wp-content/uploads/2015/07/BLING2.png"
+	}, {
+		"name": "Population",
+		"description": "Inclusion: adults with severe sepsis commenced on any of:
+                    Piperacillin-tazobactam
+                    Ticarcillin-clavulanate
+                    Meropenem
+                     Exclusion:
+                    Received beta-lactam for more than 24 hours duration prior to randomisation
+                      Pregnancy
+                    Allergy to study drugs
+                      No central venous line with >= 3 lumens
+                    Palliative treatment only, limits to care, death is imminent or death is likely within 90 days due to underlying process
+                    2630 patients screened, 432 eligible patients were randomised (ITT), 422 received a study drug (mITT)
+                    Pathogen isolated in blood cultures in 83 patients",
+		"img": "https://www.thebottomline.org.uk/wp-content/uploads/2015/07/BLING2.png"
+	},{
+		"name": "Intervention",
+		"description": "Continuous infusion of beta-lactam antibiotics
+                     Loading dose of chosen antibiotic
+                     Continuous infusion thereafter
+                      1g in 100ml Meropenem over 24 hours
+                      13.5g in 250ml Piperacillin-tazobactam over 24 hours
+                      12.4g in 250ml Ticarcillin-clavulanate over 24 hours
+                      Administered with a normal saline dummy intermittent infusion",
+		"img": "http://1.bp.blogspot.com/-bxRUoPcWD88/Vg3wy0oKMbI/AAAAAAAAEHY/jo-X45aplTc/s640/tbl-datasheet-bling2.png"
+	}
+]
